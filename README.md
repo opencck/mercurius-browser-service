@@ -6,7 +6,7 @@ A browser service for the agent: Chrome driven by Puppeteer behind an HTTP API o
 
 Part of [Mercurius](https://github.com/opencck/mercurius) — an autonomous personal agent. The package does not depend on the Mercurius application and can be used on its own.
 
-**Status:** planned, no code yet.
+**Status:** not used. The browser service of Mercurius lives in [`mercurius-browser`](https://github.com/opencck/mercurius-browser), a module of its own.
 
 **Stack:** Node.js, Docker.
 
